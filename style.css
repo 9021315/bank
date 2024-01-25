@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#balance-container {
+    margin-bottom: 20px;
+}
+
+#transaction-container {
+    margin-bottom: 20px;
+}
+
+#result-container {
+    color: green;
+}
